@@ -1,2 +1,2 @@
 # Voila_bear
-Testing bear classifier on binder with voila
+Bear classifier with voila UI
